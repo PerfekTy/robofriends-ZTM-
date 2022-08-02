@@ -2,5 +2,12 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: linear-gradient(to right, rgb(233, 209, 139), rgb(199, 215, 39));
+  background: linear-gradient(to right, rgb(11, 101, 93), rgb(216, 4, 114));
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: white;
+  font-size: 1.2em;
 }
